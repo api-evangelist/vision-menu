@@ -1,4 +1,4 @@
-# VisionMenu
+# Vision Menu
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,17 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VisionMenu provides a cloud‑based platform for automotive dealers to create, manage, and present digital vehicle menus and service contracts. The system integrates AI‑driven recommendation engines, customizable product bundles, and real‑time pricing tools to streamline the sales process. Dealers can pull existing deals, generate new proposals, and print documents directly from the interface, while customers access personalized menus via a secure portal. VisionMenu aims to improve dealership efficiency, increase upsell rates, and enhance the overall buying experience.
+Vision Menu provides a cloud‑based platform that enables automotive dealerships to create, manage, and present digital vehicle option menus to customers. The service integrates AI‑driven recommendations, product catalogs such as GAP, tire & wheel, maintenance, and vehicle service contracts, and supports remote deal creation, AI menu templates, and detailed reporting. VisionMenu aims to streamline the sales process, improve customer experience, and increase dealership efficiency through a secure, web‑accessible interface and API integrations.
 
-**Areas:** Company · Automotive · Dealership · AI · SaaS
+**Areas:** Company · Automotive · Dealership · DigitalMenu · AI
 
-## VisionMenu on APIs.io
+## Vision Menu on APIs.io
 
-Everything profiled for VisionMenu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vision-menu/](https://apis.io/providers/vision-menu/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Vision Menu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vision-menu/](https://apis.io/providers/vision-menu/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (1)
 
-- [VisionMenu API](https://apis.io/apis/vision-menu/visionmenu-api/) — Vision Dealer Solutions SOC 2 Press Release
+- [Vision Menu API](https://apis.io/apis/vision-menu/vision-menu-api/) — API documentation is provided via PDF files; no machine‑readable specification is available.
 
 ### Published properties
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [VisionMenu Domain Security](https://apis.io/security/vision-menu/vision-menu-domain-security/)
+- [Vision Menu Domain Security](https://apis.io/security/vision-menu/vision-menu-domain-security/)
 
 ## Where to find this API
 
@@ -95,7 +95,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.6** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 8.5** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -106,14 +106,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 9.5 |
 | Access clarity | 0.0 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -133,7 +133,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vision-menu/](https://apis.io/providers/vision-menu/).
 
@@ -141,7 +141,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for VisionMenu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Vision Menu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
